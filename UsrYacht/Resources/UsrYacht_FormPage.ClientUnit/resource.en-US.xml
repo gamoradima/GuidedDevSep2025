@@ -3,6 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.addRecord_9n7xm7d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mqbjy8w_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pvl0qmn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tclfl04_caption.Value" Value="Add new" />
 		</Items>
 	</Group>
 </Resources>
