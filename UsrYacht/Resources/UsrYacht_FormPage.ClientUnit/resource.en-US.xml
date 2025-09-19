@@ -11,6 +11,8 @@
 			<Item Name="LocalizableStrings.addRecord_px7hrkn_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_tclfl04_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_v5n9gps_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ManagerEmail_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager Email" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
