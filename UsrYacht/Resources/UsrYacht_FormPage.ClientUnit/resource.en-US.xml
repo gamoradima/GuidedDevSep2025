@@ -28,6 +28,7 @@
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 100 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 			<Item Name="LocalizableStrings.RunCalcAvgTicketPriceProcessMenuItem_caption.Value" Value="Run Calc avg ticket price process" />
+			<Item Name="LocalizableStrings.RunMaxPriceWebServiceMenuItem_caption.Value" Value="Run Max price web service" />
 		</Items>
 	</Group>
 </Resources>
