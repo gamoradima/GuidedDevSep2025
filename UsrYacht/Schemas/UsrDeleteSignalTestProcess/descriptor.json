@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "18c610fe-31ab-4a84-a3e2-eb2c8cc98f29",
+    "Name": "UsrDeleteSignalTestProcess",
+    "ModifiedOnUtc": "\/Date(1758895946000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "DeleteSignalTestProcess",
+    "DependsOn": []
+  }
+}
